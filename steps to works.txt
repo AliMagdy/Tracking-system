@@ -1,0 +1,21 @@
+1-Include 3 libraries.
+2-open sketch. 
+3-run it. 
+4-upload it to arduino. 
+5-click in gsm power button untill Net led give aflash.
+Finial==> open terminal.
+
+
+Hardware connection with Arduino:
+First GSm :
+Gnd to Gnd in arduino.
+5V to 5V in arduino.
+TX to pin 7 in arduino.
+Rx to pin 8 in arduino.
+Power to pin 10 in arduino.
+
+Second Gps:
+Gnd to Gnd in arduino.
+3.3V to 3.3V in arduino. 
+Tx to pin 4.
+Rx to pin 3.
